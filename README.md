@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **realtional database projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/noor-shahan/Data_Analysis.git](https://github.com/noor-shahan/Data_Analysis.git)
+- 👨‍💻 All of my projects are available at [https://github.com/noor-shahan/.git](https://github.com/noor-shahan/Data_Analysis.git)
 
 - 💬 Ask me about **react,nextjs14,html,css,javascript,python,powerBi,Ms Ecxcel**
 
